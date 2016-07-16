@@ -11,7 +11,7 @@ LEARN TO PROGRAM CURRICULUM
 | Interaction | 2 | Conditional statements. Loops (while and for) | Project 2 |
 | Functions: the basics | 3 | Calling vs. defining functions, arguments and parameters, reusing functions, return types | Project 3 |
 | Objects and Arrays | 3 | Object literals (properties, functions, 'this'), declaring and initializing an array, arrays and for loops, constructor function, arrays of objects | Project 4 |
-| DOM: events and callback functions * | 2 | Events (mousePressed, keyPressed), DOM elements, callbacks, `style()`, low-key intro to CSS | Project 5 |
+| DOM: events and callback functions | 2 | Events (mousePressed, keyPressed), DOM elements, callbacks, `style()`, low-key intro to CSS | Project 5 |
 | Data | 1-2 | JSON and APIs (and more on callbacks!), word counting, tabular data | Data Project |
 | Video & Sound * | 1+ | p5.sound, live capture, movie playback | Video Assignment |
 | Mobile * | 1+ | workflow and process (running a sketch on a mobile device), touch, using phone sensors | Mobile Sketch |
