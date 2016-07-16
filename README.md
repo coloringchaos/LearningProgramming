@@ -3,8 +3,8 @@ LEARN TO PROGRAM CURRICULUM
 ## Teaching Outline
 
 ### Lesson 1. Introduction and Drawing
-- What is programming?
-- What is P5JS?
+* What is programming?
+* What is P5JS?
 
 ### Lesson 2. Animation
 - Program flow (what's a function?)
